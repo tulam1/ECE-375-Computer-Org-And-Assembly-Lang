@@ -1,0 +1,318 @@
+
+GccApplication1.elf:     file format elf32-avr
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .data         00000000  00800100  00800100  000001f6  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  1 .text         000001a2  00000000  00000000  00000054  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  2 .comment      00000030  00000000  00000000  000001f6  2**0
+                  CONTENTS, READONLY
+  3 .note.gnu.avr.deviceinfo 0000003c  00000000  00000000  00000228  2**2
+                  CONTENTS, READONLY
+  4 .debug_aranges 00000038  00000000  00000000  00000264  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  5 .debug_info   00000b51  00000000  00000000  0000029c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  6 .debug_abbrev 0000082b  00000000  00000000  00000ded  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  7 .debug_line   00000389  00000000  00000000  00001618  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  8 .debug_frame  00000054  00000000  00000000  000019a4  2**2
+                  CONTENTS, READONLY, DEBUGGING
+  9 .debug_str    00000497  00000000  00000000  000019f8  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 10 .debug_loc    000002d0  00000000  00000000  00001e8f  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_ranges 00000028  00000000  00000000  0000215f  2**0
+                  CONTENTS, READONLY, DEBUGGING
+
+Disassembly of section .text:
+
+00000000 <__vectors>:
+   0:	45 c0       	rjmp	.+138    	; 0x8c <__ctors_end>
+   2:	00 00       	nop
+   4:	4b c0       	rjmp	.+150    	; 0x9c <__bad_interrupt>
+   6:	00 00       	nop
+   8:	49 c0       	rjmp	.+146    	; 0x9c <__bad_interrupt>
+   a:	00 00       	nop
+   c:	47 c0       	rjmp	.+142    	; 0x9c <__bad_interrupt>
+   e:	00 00       	nop
+  10:	45 c0       	rjmp	.+138    	; 0x9c <__bad_interrupt>
+  12:	00 00       	nop
+  14:	43 c0       	rjmp	.+134    	; 0x9c <__bad_interrupt>
+  16:	00 00       	nop
+  18:	41 c0       	rjmp	.+130    	; 0x9c <__bad_interrupt>
+  1a:	00 00       	nop
+  1c:	3f c0       	rjmp	.+126    	; 0x9c <__bad_interrupt>
+  1e:	00 00       	nop
+  20:	3d c0       	rjmp	.+122    	; 0x9c <__bad_interrupt>
+  22:	00 00       	nop
+  24:	3b c0       	rjmp	.+118    	; 0x9c <__bad_interrupt>
+  26:	00 00       	nop
+  28:	39 c0       	rjmp	.+114    	; 0x9c <__bad_interrupt>
+  2a:	00 00       	nop
+  2c:	37 c0       	rjmp	.+110    	; 0x9c <__bad_interrupt>
+  2e:	00 00       	nop
+  30:	35 c0       	rjmp	.+106    	; 0x9c <__bad_interrupt>
+  32:	00 00       	nop
+  34:	33 c0       	rjmp	.+102    	; 0x9c <__bad_interrupt>
+  36:	00 00       	nop
+  38:	31 c0       	rjmp	.+98     	; 0x9c <__bad_interrupt>
+  3a:	00 00       	nop
+  3c:	2f c0       	rjmp	.+94     	; 0x9c <__bad_interrupt>
+  3e:	00 00       	nop
+  40:	2d c0       	rjmp	.+90     	; 0x9c <__bad_interrupt>
+  42:	00 00       	nop
+  44:	2b c0       	rjmp	.+86     	; 0x9c <__bad_interrupt>
+  46:	00 00       	nop
+  48:	29 c0       	rjmp	.+82     	; 0x9c <__bad_interrupt>
+  4a:	00 00       	nop
+  4c:	27 c0       	rjmp	.+78     	; 0x9c <__bad_interrupt>
+  4e:	00 00       	nop
+  50:	25 c0       	rjmp	.+74     	; 0x9c <__bad_interrupt>
+  52:	00 00       	nop
+  54:	23 c0       	rjmp	.+70     	; 0x9c <__bad_interrupt>
+  56:	00 00       	nop
+  58:	21 c0       	rjmp	.+66     	; 0x9c <__bad_interrupt>
+  5a:	00 00       	nop
+  5c:	1f c0       	rjmp	.+62     	; 0x9c <__bad_interrupt>
+  5e:	00 00       	nop
+  60:	1d c0       	rjmp	.+58     	; 0x9c <__bad_interrupt>
+  62:	00 00       	nop
+  64:	1b c0       	rjmp	.+54     	; 0x9c <__bad_interrupt>
+  66:	00 00       	nop
+  68:	19 c0       	rjmp	.+50     	; 0x9c <__bad_interrupt>
+  6a:	00 00       	nop
+  6c:	17 c0       	rjmp	.+46     	; 0x9c <__bad_interrupt>
+  6e:	00 00       	nop
+  70:	15 c0       	rjmp	.+42     	; 0x9c <__bad_interrupt>
+  72:	00 00       	nop
+  74:	13 c0       	rjmp	.+38     	; 0x9c <__bad_interrupt>
+  76:	00 00       	nop
+  78:	11 c0       	rjmp	.+34     	; 0x9c <__bad_interrupt>
+  7a:	00 00       	nop
+  7c:	0f c0       	rjmp	.+30     	; 0x9c <__bad_interrupt>
+  7e:	00 00       	nop
+  80:	0d c0       	rjmp	.+26     	; 0x9c <__bad_interrupt>
+  82:	00 00       	nop
+  84:	0b c0       	rjmp	.+22     	; 0x9c <__bad_interrupt>
+  86:	00 00       	nop
+  88:	09 c0       	rjmp	.+18     	; 0x9c <__bad_interrupt>
+	...
+
+0000008c <__ctors_end>:
+  8c:	11 24       	eor	r1, r1
+  8e:	1f be       	out	0x3f, r1	; 63
+  90:	cf ef       	ldi	r28, 0xFF	; 255
+  92:	d0 e1       	ldi	r29, 0x10	; 16
+  94:	de bf       	out	0x3e, r29	; 62
+  96:	cd bf       	out	0x3d, r28	; 61
+  98:	65 d0       	rcall	.+202    	; 0x164 <main>
+  9a:	81 c0       	rjmp	.+258    	; 0x19e <_exit>
+
+0000009c <__bad_interrupt>:
+  9c:	b1 cf       	rjmp	.-158    	; 0x0 <__vectors>
+
+0000009e <RightWhisker>:
+* Description: If the right whisker hit on PIN 0 in PORTD,
+               The BumpBot will turn left and move forward.
+************************************************************/
+void RightWhisker() {
+	
+	PORTB = 0b00000000;										    //Move backward
+  9e:	18 ba       	out	0x18, r1	; 24
+	#else
+		//round up by default
+		__ticks_dc = (uint32_t)(ceil(fabs(__tmp)));
+	#endif
+
+	__builtin_avr_delay_cycles(__ticks_dc);
+  a0:	2f ef       	ldi	r18, 0xFF	; 255
+  a2:	89 e6       	ldi	r24, 0x69	; 105
+  a4:	98 e1       	ldi	r25, 0x18	; 24
+  a6:	21 50       	subi	r18, 0x01	; 1
+  a8:	80 40       	sbci	r24, 0x00	; 0
+  aa:	90 40       	sbci	r25, 0x00	; 0
+  ac:	e1 f7       	brne	.-8      	; 0xa6 <RightWhisker+0x8>
+  ae:	00 c0       	rjmp	.+0      	; 0xb0 <RightWhisker+0x12>
+  b0:	00 00       	nop
+	_delay_ms(500);												//Wait for 500ms
+	PORTB = 0b00100000;											//Turn left for a second
+  b2:	80 e2       	ldi	r24, 0x20	; 32
+  b4:	88 bb       	out	0x18, r24	; 24
+  b6:	2f ef       	ldi	r18, 0xFF	; 255
+  b8:	83 ed       	ldi	r24, 0xD3	; 211
+  ba:	90 e3       	ldi	r25, 0x30	; 48
+  bc:	21 50       	subi	r18, 0x01	; 1
+  be:	80 40       	sbci	r24, 0x00	; 0
+  c0:	90 40       	sbci	r25, 0x00	; 0
+  c2:	e1 f7       	brne	.-8      	; 0xbc <RightWhisker+0x1e>
+  c4:	00 c0       	rjmp	.+0      	; 0xc6 <RightWhisker+0x28>
+  c6:	00 00       	nop
+	_delay_ms(1000);											//Wait for 1s
+	PORTB = 0b01100000;											//Continue forward
+  c8:	80 e6       	ldi	r24, 0x60	; 96
+  ca:	88 bb       	out	0x18, r24	; 24
+  cc:	2f ef       	ldi	r18, 0xFF	; 255
+  ce:	89 e6       	ldi	r24, 0x69	; 105
+  d0:	98 e1       	ldi	r25, 0x18	; 24
+  d2:	21 50       	subi	r18, 0x01	; 1
+  d4:	80 40       	sbci	r24, 0x00	; 0
+  d6:	90 40       	sbci	r25, 0x00	; 0
+  d8:	e1 f7       	brne	.-8      	; 0xd2 <RightWhisker+0x34>
+  da:	00 c0       	rjmp	.+0      	; 0xdc <RightWhisker+0x3e>
+  dc:	00 00       	nop
+  de:	08 95       	ret
+
+000000e0 <LeftWhisker>:
+* Description: If the right whisker hit on PIN 1 in PORTD,
+               The BumpBot will turn right and move forward.
+************************************************************/
+void LeftWhisker() {
+	
+	PORTB = 0b00000000;										    //Move backward
+  e0:	18 ba       	out	0x18, r1	; 24
+  e2:	2f ef       	ldi	r18, 0xFF	; 255
+  e4:	89 e6       	ldi	r24, 0x69	; 105
+  e6:	98 e1       	ldi	r25, 0x18	; 24
+  e8:	21 50       	subi	r18, 0x01	; 1
+  ea:	80 40       	sbci	r24, 0x00	; 0
+  ec:	90 40       	sbci	r25, 0x00	; 0
+  ee:	e1 f7       	brne	.-8      	; 0xe8 <LeftWhisker+0x8>
+  f0:	00 c0       	rjmp	.+0      	; 0xf2 <LeftWhisker+0x12>
+  f2:	00 00       	nop
+	_delay_ms(500);												//Wait for 500ms
+	PORTB = 0b01000000;											//Turn right for a second
+  f4:	80 e4       	ldi	r24, 0x40	; 64
+  f6:	88 bb       	out	0x18, r24	; 24
+  f8:	2f ef       	ldi	r18, 0xFF	; 255
+  fa:	83 ed       	ldi	r24, 0xD3	; 211
+  fc:	90 e3       	ldi	r25, 0x30	; 48
+  fe:	21 50       	subi	r18, 0x01	; 1
+ 100:	80 40       	sbci	r24, 0x00	; 0
+ 102:	90 40       	sbci	r25, 0x00	; 0
+ 104:	e1 f7       	brne	.-8      	; 0xfe <LeftWhisker+0x1e>
+ 106:	00 c0       	rjmp	.+0      	; 0x108 <LeftWhisker+0x28>
+ 108:	00 00       	nop
+	_delay_ms(1000);											//Wait for 1s
+	PORTB = 0b01100000;											//Continue forward
+ 10a:	80 e6       	ldi	r24, 0x60	; 96
+ 10c:	88 bb       	out	0x18, r24	; 24
+ 10e:	2f ef       	ldi	r18, 0xFF	; 255
+ 110:	89 e6       	ldi	r24, 0x69	; 105
+ 112:	98 e1       	ldi	r25, 0x18	; 24
+ 114:	21 50       	subi	r18, 0x01	; 1
+ 116:	80 40       	sbci	r24, 0x00	; 0
+ 118:	90 40       	sbci	r25, 0x00	; 0
+ 11a:	e1 f7       	brne	.-8      	; 0x114 <LeftWhisker+0x34>
+ 11c:	00 c0       	rjmp	.+0      	; 0x11e <LeftWhisker+0x3e>
+ 11e:	00 00       	nop
+ 120:	08 95       	ret
+
+00000122 <BothWhiskers>:
+* Description: If the both whiskers hit on PIN 1 & 0 in PORTD,
+               The BumpBot will turn left and move forward.
+************************************************************/
+void BothWhiskers() {
+	
+	PORTB = 0b00000000;										    //Move backward
+ 122:	18 ba       	out	0x18, r1	; 24
+ 124:	2f ef       	ldi	r18, 0xFF	; 255
+ 126:	89 e6       	ldi	r24, 0x69	; 105
+ 128:	98 e1       	ldi	r25, 0x18	; 24
+ 12a:	21 50       	subi	r18, 0x01	; 1
+ 12c:	80 40       	sbci	r24, 0x00	; 0
+ 12e:	90 40       	sbci	r25, 0x00	; 0
+ 130:	e1 f7       	brne	.-8      	; 0x12a <BothWhiskers+0x8>
+ 132:	00 c0       	rjmp	.+0      	; 0x134 <BothWhiskers+0x12>
+ 134:	00 00       	nop
+	_delay_ms(500);												//Wait for 500ms
+	PORTB = 0b00100000;											//Turn left for a second
+ 136:	80 e2       	ldi	r24, 0x20	; 32
+ 138:	88 bb       	out	0x18, r24	; 24
+ 13a:	2f ef       	ldi	r18, 0xFF	; 255
+ 13c:	83 ed       	ldi	r24, 0xD3	; 211
+ 13e:	90 e3       	ldi	r25, 0x30	; 48
+ 140:	21 50       	subi	r18, 0x01	; 1
+ 142:	80 40       	sbci	r24, 0x00	; 0
+ 144:	90 40       	sbci	r25, 0x00	; 0
+ 146:	e1 f7       	brne	.-8      	; 0x140 <BothWhiskers+0x1e>
+ 148:	00 c0       	rjmp	.+0      	; 0x14a <BothWhiskers+0x28>
+ 14a:	00 00       	nop
+	_delay_ms(1000);											//Wait for 1s
+	PORTB = 0b01100000;											//Continue forward
+ 14c:	80 e6       	ldi	r24, 0x60	; 96
+ 14e:	88 bb       	out	0x18, r24	; 24
+ 150:	2f ef       	ldi	r18, 0xFF	; 255
+ 152:	89 e6       	ldi	r24, 0x69	; 105
+ 154:	98 e1       	ldi	r25, 0x18	; 24
+ 156:	21 50       	subi	r18, 0x01	; 1
+ 158:	80 40       	sbci	r24, 0x00	; 0
+ 15a:	90 40       	sbci	r25, 0x00	; 0
+ 15c:	e1 f7       	brne	.-8      	; 0x156 <BothWhiskers+0x34>
+ 15e:	00 c0       	rjmp	.+0      	; 0x160 <BothWhiskers+0x3e>
+ 160:	00 00       	nop
+ 162:	08 95       	ret
+
+00000164 <main>:
+#include <util/delay.h>
+#include <stdio.h>
+
+int main(void)
+{
+	DDRB = 0b11110000;											//This configure Port B[Pin 4 - 7] to be the outputs
+ 164:	80 ef       	ldi	r24, 0xF0	; 240
+ 166:	87 bb       	out	0x17, r24	; 23
+	PORTB = 0b11110000;											//Set up the Pin 4 - 7 to turn on it LED
+ 168:	88 bb       	out	0x18, r24	; 24
+
+	while (1) // loop forever
+	{
+		PORTB = 0b01100000;										//This set the BumpBot to move forward forever until a trigger is hit
+ 16a:	c0 e6       	ldi	r28, 0x60	; 96
+ 16c:	c8 bb       	out	0x18, r28	; 24
+ 16e:	2f ef       	ldi	r18, 0xFF	; 255
+ 170:	89 e6       	ldi	r24, 0x69	; 105
+ 172:	98 e1       	ldi	r25, 0x18	; 24
+ 174:	21 50       	subi	r18, 0x01	; 1
+ 176:	80 40       	sbci	r24, 0x00	; 0
+ 178:	90 40       	sbci	r25, 0x00	; 0
+ 17a:	e1 f7       	brne	.-8      	; 0x174 <main+0x10>
+ 17c:	00 c0       	rjmp	.+0      	; 0x17e <main+0x1a>
+ 17e:	00 00       	nop
+		_delay_ms(500);											//Wait for 500 ms
+		
+		
+		if (PIND == 0b11111110) {								//Look if the right whisker hit
+ 180:	80 b3       	in	r24, 0x10	; 16
+ 182:	8e 3f       	cpi	r24, 0xFE	; 254
+ 184:	11 f4       	brne	.+4      	; 0x18a <main+0x26>
+			RightWhisker();
+ 186:	8b df       	rcall	.-234    	; 0x9e <RightWhisker>
+ 188:	f1 cf       	rjmp	.-30     	; 0x16c <main+0x8>
+		}
+		
+		else if (PIND == 0b11111101) {							//Look if the left whisker hit
+ 18a:	80 b3       	in	r24, 0x10	; 16
+ 18c:	8d 3f       	cpi	r24, 0xFD	; 253
+			LeftWhisker();
+ 18e:	11 f4       	brne	.+4      	; 0x194 <main+0x30>
+ 190:	a7 df       	rcall	.-178    	; 0xe0 <LeftWhisker>
+ 192:	ec cf       	rjmp	.-40     	; 0x16c <main+0x8>
+		}
+		
+		else if (PIND == 0b11111100) {						    //Look if the left & right whisker hit
+ 194:	80 b3       	in	r24, 0x10	; 16
+ 196:	8c 3f       	cpi	r24, 0xFC	; 252
+			BothWhiskers();
+ 198:	49 f7       	brne	.-46     	; 0x16c <main+0x8>
+ 19a:	c3 df       	rcall	.-122    	; 0x122 <BothWhiskers>
+ 19c:	e7 cf       	rjmp	.-50     	; 0x16c <main+0x8>
+
+0000019e <_exit>:
+ 19e:	f8 94       	cli
+
+000001a0 <__stop_program>:
+ 1a0:	ff cf       	rjmp	.-2      	; 0x1a0 <__stop_program>

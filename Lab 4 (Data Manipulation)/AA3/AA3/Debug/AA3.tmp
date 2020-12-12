@@ -1,0 +1,68 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+  <FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Debug\AA3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AA3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AA3.map</FILE>
+  <FILE>AA3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>41</LINE></INIT>
+  <LCDInit><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>75</LINE></LCDInit>
+  <STRING1_BEG><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>142</LINE></STRING1_BEG>
+  <LOOP1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>62</LINE></LOOP1>
+  <STRING2_BEG><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>144</LINE></STRING2_BEG>
+  <LOOP2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>76</LINE></LOOP2>
+  <MAIN><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>91</LINE></MAIN>
+  <LCDWrite><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>170</LINE></LCDWrite>
+  <ENTER1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>99</LINE></ENTER1>
+  <ENTER7><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>106</LINE></ENTER7>
+  <LCDWrLn2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>205</LINE></LCDWrLn2>
+  <LCDWrLn1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>180</LINE></LCDWrLn1>
+  <LCDClr><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>230</LINE></LCDClr>
+  <FUNC><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>124</LINE></FUNC>
+  <STRING_END><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\Tu_Lam_Lab4_sourcecode.asm</FILE><LINE>146</LINE></STRING_END>
+  <LCDINIT_L1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>139</LINE></LCDINIT_L1>
+  <LCDWait><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>492</LINE></LCDWait>
+  <LCDWriteCmd><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>436</LINE></LCDWriteCmd>
+  <LCDSetLine><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>388</LINE></LCDSetLine>
+  <LCDWriteLine><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>423</LINE></LCDWriteLine>
+  <LCDClrLn1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>240</LINE></LCDClrLn1>
+  <LCDClrLn2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>265</LINE></LCDClrLn2>
+  <LCDClrLine><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>404</LINE></LCDClrLine>
+  <LCDWriteByte><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>302</LINE></LCDWriteByte>
+  <LCDWriteByte_3><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>323</LINE></LCDWriteByte_3>
+  <LCDWriteByte_1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>313</LINE></LCDWriteByte_1>
+  <LCDWriteByte_2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>318</LINE></LCDWriteByte_2>
+  <LCDWriteChar><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>457</LINE></LCDWriteChar>
+  <Bin2ASCII><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>339</LINE></Bin2ASCII>
+  <B2A_1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>352</LINE></B2A_1>
+  <B2A_3><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>360</LINE></B2A_3>
+  <B2A_2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>357</LINE></B2A_2>
+  <div10><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>515</LINE></div10>
+  <LCDClrLine_1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>407</LINE></LCDClrLine_1>
+  <LCDWriteLine_1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>425</LINE></LCDWriteLine_1>
+  <LCDWriteData><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>472</LINE></LCDWriteData>
+  <LCDWC_L1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>443</LINE></LCDWC_L1>
+  <LCDW_L1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>493</LINE></LCDW_L1>
+  <LCDW_L2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>494</LINE></LCDW_L2>
+  <div10_1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>554</LINE></div10_1>
+  <div10_2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 4 (Data Manipulation)\AA3\AA3\LCDDriver.asm</FILE><LINE>560</LINE></div10_2>
+ </LABELS>
+</ASSEMBLER_INFO>
