@@ -1,0 +1,74 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Debug\AA5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AA5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AA5.map</FILE>
+  <FILE>AA5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>49</LINE></INIT>
+  <MAIN><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>63</LINE></MAIN>
+  <OperandD><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>550</LINE></OperandD>
+  <ADD16_OP1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>571</LINE></ADD16_OP1>
+  <LOOP1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>72</LINE></LOOP1>
+  <OperandA><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>536</LINE></OperandA>
+  <ADD16_OP2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>573</LINE></ADD16_OP2>
+  <LOOP2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>85</LINE></LOOP2>
+  <ADD16><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>186</LINE></ADD16>
+  <OperandB><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>540</LINE></OperandB>
+  <SUB16_OP1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>581</LINE></SUB16_OP1>
+  <LOOP3><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>107</LINE></LOOP3>
+  <OperandC><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>542</LINE></OperandC>
+  <SUB16_OP2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>583</LINE></SUB16_OP2>
+  <LOOP4><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>120</LINE></LOOP4>
+  <SUB16><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>222</LINE></SUB16>
+  <OperandG><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>546</LINE></OperandG>
+  <addrC><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>591</LINE></addrC>
+  <LOOP5><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>141</LINE></LOOP5>
+  <addrD><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>592</LINE></addrD>
+  <LOOP6><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>154</LINE></LOOP6>
+  <MUL24><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>254</LINE></MUL24>
+  <COMPOUND><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>311</LINE></COMPOUND>
+  <DONE><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>173</LINE></DONE>
+  <ADD16_Result><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>577</LINE></ADD16_Result>
+  <DONE_JOB><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>214</LINE></DONE_JOB>
+  <SUB16_Result><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>587</LINE></SUB16_Result>
+  <LAddrE><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>593</LINE></LAddrE>
+  <MUL24_OLOOP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>268</LINE></MUL24_OLOOP>
+  <MUL24_ILOOP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>275</LINE></MUL24_ILOOP>
+  <CLEAR1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>318</LINE></CLEAR1>
+  <CLEAR2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>328</LINE></CLEAR2>
+  <CLEAR3><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>338</LINE></CLEAR3>
+  <LOOPD><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>350</LINE></LOOPD>
+  <OperandE><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>552</LINE></OperandE>
+  <LOOPE><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>363</LINE></LOOPE>
+  <LOOPS><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>379</LINE></LOOPS>
+  <OperandF><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>554</LINE></OperandF>
+  <LOOPF><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>392</LINE></LOOPF>
+  <LOOPA><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>408</LINE></LOOPA>
+  <LOOPB><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>421</LINE></LOOPB>
+  <MUL16><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>442</LINE></MUL16>
+  <addrB><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>564</LINE></addrB>
+  <LAddrP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>565</LINE></LAddrP>
+  <MUL16_OLOOP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>469</LINE></MUL16_OLOOP>
+  <addrA><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>563</LINE></addrA>
+  <MUL16_ILOOP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>476</LINE></MUL16_ILOOP>
+  <FUNC><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 5 (Arithmetic)\AA5\AA5\Tu_Lam_Lab5_SourceCode.asm</FILE><LINE>520</LINE></FUNC>
+ </LABELS>
+</ASSEMBLER_INFO>

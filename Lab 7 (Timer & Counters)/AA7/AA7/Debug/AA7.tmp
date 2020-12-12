@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Debug\AA7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AA7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AA7.map</FILE>
+  <FILE>AA7.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>67</LINE></INIT>
+  <SPEED_UP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>117</LINE></SPEED_UP>
+  <SPEED_DOWN><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>143</LINE></SPEED_DOWN>
+  <SPEED_MAX><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>169</LINE></SPEED_MAX>
+  <SPEED_MIN><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>193</LINE></SPEED_MIN>
+  <MAIN><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>105</LINE></MAIN>
+  <WAITING><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>216</LINE></WAITING>
+  <CHECK_DONE><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>132</LINE></CHECK_DONE>
+  <CHECK_DONE1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>158</LINE></CHECK_DONE1>
+  <OLOOP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>219</LINE></OLOOP>
+  <MLOOP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>222</LINE></MLOOP>
+  <ILOOP><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 7 (Timer & Counters)\AA7\AA7\Tu_Lam_Lab7_sourcecode.asm</FILE><LINE>225</LINE></ILOOP>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Debug\AA8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AA8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AA8.map</FILE>
+  <FILE>AA8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <coordinate1x><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>41</LINE></coordinate1x>
+  <coordinate1y><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>44</LINE></coordinate1y>
+  <coordinate2x><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>47</LINE></coordinate2x>
+  <coordinate2y><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>50</LINE></coordinate2y>
+  <sq1x><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>53</LINE></sq1x>
+  <sq1y><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>56</LINE></sq1y>
+  <resultxy1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>59</LINE></resultxy1>
+  <tempxy1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>62</LINE></tempxy1>
+  <INIT><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>77</LINE></INIT>
+  <Coordinate><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>102</LINE></Coordinate>
+  <Compute_Square><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>149</LINE></Compute_Square>
+  <Grading><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>222</LINE></Grading>
+  <TreasureInfo><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>235</LINE></TreasureInfo>
+  <X1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>113</LINE></X1>
+  <Y1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>131</LINE></Y1>
+  <ADD16><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>185</LINE></ADD16>
+  <Result1><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>243</LINE></Result1>
+  <DONE_JOB><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>213</LINE></DONE_JOB>
+  <UserLocation><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>236</LINE></UserLocation>
+  <Result2><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>244</LINE></Result2>
+  <Result3><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>245</LINE></Result3>
+  <BestChoice><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>246</LINE></BestChoice>
+  <AvgDistance><FILE>C:\Users\Tu Lam\Documents\College Fall 2020\ECE 375 (Computer Organization & Assembly Language)\Lab 8 (Treasure Hunt)\AA8\AA8\Tu_Lam_Lab8_SourceCode.asm</FILE><LINE>249</LINE></AvgDistance>
+ </LABELS>
+</ASSEMBLER_INFO>
